@@ -76,7 +76,7 @@ Our team developed a testing documentation with specific testing rules based on 
 ![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/edit.gif)
 
 - Delete Your Post
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/edlete.gif)
+![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/delete.gif)
 
 
 
