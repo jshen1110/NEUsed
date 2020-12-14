@@ -30,7 +30,7 @@ app.use("/auth", authenticate.routes);
 
 
 
-mongoose.connect("mongodb+srv://neuser:RKDo97Qk4X8lO2WH@cluster0.jeqmf.mongodb.net/NEUsed?retryWrites=true&w=majority", {
+mongoose.connect(`${process.env.MONGO_URL}`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
