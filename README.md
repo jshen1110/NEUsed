@@ -39,10 +39,10 @@ Our team developed a testing documentation with specific testing rules based on 
 
 ### Backend Design
 
-- Model: 
+- Model
     * [x] Post{title; content; price; creator; status; mage url; category; email; date]
     * Post can be edit, delete, add. 
-- User: 
+- User
     * [x] Account info from Google Sign in API
     * User can sign in and out.
 
