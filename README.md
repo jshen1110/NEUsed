@@ -4,15 +4,15 @@
 
 **Website Link: [Click Here!](https://neused.herokuapp.com/)**
 
-## [Design by Team: softaware](https://github.ccs.neu.edu/orgs/2020FACS5500SV/teams/project-neused-team)
+## Design by Team: softaware
 
 Development Process: **Agile Development(Scrum).**
 Committing way: feature branch workflow by committing branches and submit pull requests to have code reviewed and committed to the master branch
 
-- [Siyu Chen](https://github.ccs.neu.edu/siyuchen2020)
-- [Yijing Liu](https://github.ccs.neu.edu/yijingliu)
-- [Jing Shen](https://github.ccs.neu.edu/jshen1110)
-- [Yixuan Yu](https://github.ccs.neu.edu/nancyyu)
+- [Siyu Chen](https://github.com/syche55)
+- [Yijing Liu](https://github.com/YijingLiu1)
+- [Jing Shen](https://github.com/jshen1110)
+- [Yixuan Yu](https://github.com/nancyyu17)
 
 ## Tech Stack & Design
 
@@ -46,37 +46,25 @@ Our team developed a testing documentation with specific testing rules based on 
     * [x] Account info from Google Sign in API
     * User can sign in and out.
 
-## [Project documentation](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/tree/master/docs)
-
-- [x] [Project Organization](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Project%20Organization%20-%20NEUsed.pdf)
-- [x] [Project Requirements](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Requirements%20Document%20-%20NEUsed.pdf)
-- [x] [Project Features](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Features%20-%20NEUsed%20.pdf)
-- [x] [Project Functionality APIs](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Project%20Functionality%20APIs%20-%20NEUsed.pdf)
-- [x] [Project Design](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Design%20Doc%20-%20NEUsed.pdf)
-- [x] [Project Communications Plans](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Communications%20Plan.pdf)
-- [x] [Project Test Plans](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Test%20Plans%20-%20NEUsed.pdf)
-- [x] [Daily Standup Report](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/Daily%20Standup%20Report%20-%20NEUsed.pdf)
-
-
 ## Features
 
 - Sign in with Google
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/signin.gif)
+![Recordit GIF](https://github.com/jshen1110/NEUsed/blob/master/docs/images/signin.gif)
 
 - Discover Posts By Different Categories
 - Explore Most recent Posts
 - See Your Historic Posts
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/category.gif)
+![Recordit GIF](https://github.com/jshen1110/NEUsed/blob/master/docs/images/category.gif)
 
 - Checkout Content of Individual Posts
 - Connect with Post Creator
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/buy.gif)
+![Recordit GIF](https://github.com/jshen1110/NEUsed/blob/master/docs/images/buy.gif)
 
 - Edit Your Post and Update anything you want
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/edit.gif)
+![Recordit GIF](https://github.com/jshen1110/NEUsed/blob/master/docs/images/edit.gif)
 
 - Delete Your Post
-![Recordit GIF](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/blob/master/docs/images/delete.gif)
+![Recordit GIF](https://github.com/jshen1110/NEUsed/blob/master/docs/images/delete.gif)
 
 
 
@@ -84,7 +72,3 @@ Our team developed a testing documentation with specific testing rules based on 
 ## Other Info
 
 **Copyright 2020 © Softaware**
-
-[Project Wiki](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/wiki)
-[Project Public Webpage](https://pages.github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/)
-[Project Board](https://github.ccs.neu.edu/2020FACS5500SV/project-NEUsed/projects)
